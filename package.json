@@ -23,7 +23,7 @@
     "react-dom": "^16.13.1",
     "redux": "^3.7.2",
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {},
   "repository": {
